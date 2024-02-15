@@ -4,14 +4,14 @@
 
 **📝 Game Description**
 
-  * Classic Hearts gameplay implemented in Python for an engaging card game experience.
-  * Intuitive user interface built with Tkinter for easy play.
+  - Classic Hearts gameplay implemented in Python for an engaging card game experience.
+  - Intuitive user interface built with Tkinter for easy play.
 
 **👉 Current Status**
 
-   🚧 Under Development:  Game logic and interface are in progress.
+  - Under Development:  Game logic and interface are in progress.
 
 **⏳ Coming Soon**
 
-  * Playable game mechanics
-  * AI opponent
+  - Playable game mechanics
+  - AI opponent
