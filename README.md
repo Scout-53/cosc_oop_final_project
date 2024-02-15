@@ -1,4 +1,4 @@
-**🔥 cosc_oop_final_project: Hearts Game **
+🔥 cosc_oop_final_project: Hearts Game 
 
   Hey there! 👋 Group - 4 is building a GUI-based Hearts game in Python with Tkinter.
 
